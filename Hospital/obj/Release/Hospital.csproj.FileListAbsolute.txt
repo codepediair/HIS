@@ -1,0 +1,17 @@
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Release\Hospital.exe.config
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Release\Hospital.exe
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Release\Hospital.pdb
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.csprojResolveAssemblyReference.cache
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.FrmMain.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.Form2.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.Form3.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.Form4.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.frmLogin.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.frmLogo.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.Properties.Resources.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.frmSearch.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.test.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.frmUpdate.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.csproj.GenerateResource.Cache
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.exe
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Release\Hospital.pdb

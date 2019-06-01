@@ -1,0 +1,33 @@
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.exe.config
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.exe
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\bin\Debug\Hospital.pdb
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.csprojResolveAssemblyReference.cache
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.FrmMain.resources
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.exe
+c:\users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.pdb
+C:\Users\mahdi\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.frmLogin.resources
+C:\Users\mahdi\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.frmUpdate.resources
+C:\Users\mahdi\Documents\Visual Studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.frmLogo.resources
+C:\Users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.frmSearch.resources
+C:\Users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.Form2.resources
+C:\Users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.Form3.resources
+C:\Users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.Form4.resources
+C:\Users\mahdi\documents\visual studio 2013\Projects\Hospital\Hospital\obj\Debug\Hospital.test.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Debug\Hospital.exe.config
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.exe
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.pdb
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Debug\Hospital.exe
+E:\Mahdi\Univercity\Database\APP\Hospital\bin\Debug\Hospital.pdb
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.FrmMain.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.Form2.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.Form3.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.Form4.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.frmLogin.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.frmLogo.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.frmSearch.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.test.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.frmUpdate.resources
+E:\Mahdi\Univercity\Database\APP\Hospital\obj\Debug\Hospital.csproj.GenerateResource.Cache
